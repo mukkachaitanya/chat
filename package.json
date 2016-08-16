@@ -1,0 +1,32 @@
+{
+  "name": "socket-osdlabs-chat",
+  "version": "0.0.1",
+  "private": true,
+  "description": "chat app for osdlabs to replace default slack",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.8"
+  },
+  "license": "MIT license (MIT)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OSDLabs/chat.git"
+  },
+  "homepage": "osdlabs.org",
+  "bugs": {
+    "url": "https://github.com/OSDLabs/chat/issues",
+    "email": "sebastinssanty@gmail.com"
+  },
+  "author": {
+    "name": "Open Source Development Labs, BITS Pilani Goa",
+    "email": "",
+    "url": "http://osdlabs.org"
+  },
+  "contributors": [
+    {
+      "name": "Sebastin Santy",
+      "email": "sebastinssanty@gmail.com",
+      "url": "http://sebastinsanty.com"
+    }
+  ]
+}
